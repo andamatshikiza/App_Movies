@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/popularFragment"
+        android:icon="@drawable/ic_simplevideo"
+        android:title="@string/popular" />
+    <item
+        android:id="@+id/topRatedFragment"
+        android:icon="@drawable/ic_toprated"
+        android:title="@string/toprated" />
+    <item
+        android:id="@+id/upcomingFragment"
+        android:icon="@drawable/ic_upcoming"
+        android:title="@string/upcoming" />
+</menu>
